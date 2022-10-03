@@ -1,3 +1,4 @@
 <?php
-
-echo "Hello World!";
+// Subdomain takeover by subtlegrowth //
+;
+?>
