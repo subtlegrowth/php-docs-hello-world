@@ -5,6 +5,6 @@
  
   </head>
   <body>
-    <h1><!--Subdomain takeover by subtlegrowth --></h1>
+    <h1><!--Subdomain takeover by jbax24 --></h1>
   </body>
 </html>
