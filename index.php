@@ -5,6 +5,6 @@
     <title>POC</title>
   </head>
   <body>
-    <h1><!--Subdomain takeover by subtlegrowth (sam baxter) --></h1>
+    <h1><!--Subdomain takeover by subtlegrowth --></h1>
   </body>
 </html>
